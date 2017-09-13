@@ -1,6 +1,7 @@
 # python-Utils
 
-**Author**: Umberto Michelucci [um@udata.science](mailto:um@udata.science) [udata.science](udata.science)
+**Author**: Umberto Michelucci [um@udata.science](mailto:um@udata.science) 
+My blog: [udata.science](udata.science)
 
 ## Content
 
