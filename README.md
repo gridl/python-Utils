@@ -1,7 +1,7 @@
 # python-Utils
 
 **Author**: Umberto Michelucci [um@udata.science](mailto:um@udata.science) 
-My blog: [udata.science](udata.science)
+My blog Post: [udata.science](https://udata.science/2017/09/13/how-to-draw-the-decision-boundary-for-classifiers/)
 
 ## Content
 
